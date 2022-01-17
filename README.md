@@ -1,5 +1,3 @@
-# react-cryptos
-
 Proyecto de aprendizaje: Cotizador de Criptomonedas en React.
 
 URL: 
